@@ -136,7 +136,7 @@ Each output .json file contains a list of dictionaries, where each entry corresp
 
 ---
 
-## 📁 Data Structure (available at [HF Repo](https://huggingface.co/datasets/G-A-I/GraphOmni))
+## 📁 Data Structure (available at [HF Repo](https://huggingface.co/datasets/GoodAIResearch/GraphOmni-anon))
 ```
 └── query
     ├── query_json 
