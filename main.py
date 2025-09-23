@@ -151,7 +151,7 @@ def main():
 
     if not os.path.exists(file1):
         print('json_data not found load from hug')
-        ds = load_dataset("G-A-I/GraphOmni", split=args.task)
+        ds = load_dataset("GoodAIResearch/GraphOmni-anon", split=args.task)
         json_data = ds.to_list()
         os.makedirs(os.path.dirname(file1), exist_ok=True)
     else:
