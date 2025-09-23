@@ -1,6 +1,8 @@
 # 🧠 GraphOmni: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks
 
-
+<p align="center">
+  <a href="https://huggingface.co/datasets/GoodAIResearch/GraphOmni-anon" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange"></a>  
+</p>
 
 **GraphOmni** is a **comprehensive benchmark** designed to evaluate the graph reasoning capabilities of large language models (LLMs). It provides a modular, extensible framework covering a wide range of graph-theoretic tasks.
 ![Overview](./overview.png)
