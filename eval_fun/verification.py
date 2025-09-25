@@ -193,10 +193,3 @@ def check_is_connected(graph, s, t):
                 queue.append(neighbor)
     
     return False
-
-if __name__ == "__main__":
-    print("Hello, BFS order verification!")
-    visit_and_validate_bfs("/home/c223zhan/gai/graph-llm-dataset/bfsorder")
-    
-    print("Hello, Shortest path verification!")
-    visit_and_validate_shortest_path("/home/c223zhan/gai/graph-llm-dataset/shortest_path")
